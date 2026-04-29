@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/skysport4k.png" group-title="┃UK┃ F1 TV PRO",Sky Sport 4K
+http://4ksmart.me:80/live/521720266443/216323643453/230967.ts
+
+#EXTINF:-1 tvg-id="SkySportF14K" tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/skysportf1.png", Sky Sport F1 4K
+http://4ksmart.me:80/live/521720266443/216323643453/105282.ts
+#EXTINF:-1 tvg-id="SkySportF14K" tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/skysportf1.png", Sky Sport F1 4K
+http://4ksmart.me:80/live/521720266443/216323643453/105195.ts
+#EXTINF:-1 tvg-id="SkySportF14K" tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/skysportf1.png", Sky Sport F1 4K
+http://4ksmart.me:80/live/521720266443/216323643453/105279.ts
+#EXTINF:-1 tvg-id="SkySportF14K" tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/skysportf1.png", Sky Sport F1 4K
+http://4ksmart.me:80/live/521720266443/216323643453/105192.ts
+
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 UHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172226&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 FHD 50FPS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172222&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 HEVC FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172224&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 HEVC HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172225&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172221&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172223&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SKY SPORTS F1
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172220&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",☰☰☰☰ ┃UK┃ F1 TV PRO ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172193&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ F1 LIVE FHD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172218&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ F1 TV PRO INTERNATIONAL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172195&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ F1 TV PRO INTERNATIONAL [FX ONLY]
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172194&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ DATA CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172216&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/drivertracker.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ DRIVER TRACKER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172217&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/hamilton.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ HAM HAMILTON | FERRARI
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172210&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/leclerc.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ LEC LECLERC | FERRARI
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172211&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/stroll.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ STR STROLL | ASTON MARTIN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172212&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/alonso.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ ALO ALONSO | ASTON MARTIN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172213&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ RUSS RUSSEL | MERCEDES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172202&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ ANT ANTONELLI | MERCEDES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172203&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/piastri.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ PIA PIASTRI | MCLAREN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172204&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/norris.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ NOR NORRIS | MCLAREN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172205&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ ALB ALBON | WILLIAMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172197&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ SAI SAINZ | WILLIAMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172196&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/verstappen.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ VER VERSTAPPEN | RED BULL RACING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172198&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ LAW LAWSON | RED BULL RACING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172199&extension=ts
+#EXTINF:-1 group-title="┃UK┃ F1 TV PRO",┃UK┃ HAD HADJAR | RACING BULLS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172201&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/lindbland.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ LIN LINDBLAND | RACING BULLS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172200&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/colapinto.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ COL COLAPINTO | ALPINE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172215&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/gasly.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ GAS GASLY | ALPINE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172214&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/bortoleto.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ BOR BORTOLETO | KICK SAUBER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172207&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/hulkenberg.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ HUL HULKENBERG | KICK SAUBER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172206&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/bearman.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ BEA BEARMAN | HAAS TEAM
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172208&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blvckroby/FormulaB1/main/driver/ocon.png" group-title="┃UK┃ F1 TV PRO",┃UK┃ OCO OCON | HAAS TEAM
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=1172209&extension=ts
